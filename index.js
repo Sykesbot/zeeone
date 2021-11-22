@@ -160,7 +160,7 @@ var _bulan = 'Rp 22.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
-zeksApikey = 'uxnP3CcdioWZjcpd5XpsHcH42nW' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'hansykesx' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
